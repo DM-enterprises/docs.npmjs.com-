@@ -1,0 +1,8 @@
+**/template-oss/*.json
+**/template-oss/*.yml
+content/
+cli/
+.github/
+package-lock.json
+SECURITY.md
+.reuse/
